@@ -1,19 +1,7 @@
 ---
-layout: home
-title: Jacob Nathanson
-subtitle: Freelance cellist
-share-description: Jacob Nathanson, freelance cellist
+layout: page
+title: Contact
 ---
-
-<div align="center">
-    <img src="https://pittsburghstrings.com/assets/img/headshot.png" max-width="400">
-</div>
-
-<p>Jacob Nathanson is a freelance cellist in Pittsburgh, PA. </p>
-
-<p>Jacob is happy to organize a group of musicians or perform solo for your next wedding
-    or special event! </p>
-
 
 <div id="gigsalad_quote_widget"></div>
 <script>
